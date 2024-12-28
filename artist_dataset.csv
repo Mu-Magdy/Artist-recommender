@@ -1,0 +1,1001 @@
+artist_ID,name,genre,subscribers,engagement_score,country
+1,Artist_1,Pop,566673,7.63,Australia
+2,Artist_2,Hip-Hop,823399,5.62,Asia
+3,Artist_3,Rock,555262,4.73,North America
+4,Artist_4,Country,93148,1.61,Europe
+5,Artist_5,Pop,15745,2.75,Europe
+6,Artist_6,Electronic,251662,5.73,South America
+7,Artist_7,Rock,490687,9.04,South America
+8,Artist_8,Jazz,351645,5.36,Africa
+9,Artist_9,Electronic,165224,7.85,Europe
+10,Artist_10,Electronic,740730,6.39,Europe
+11,Artist_11,Rock,263739,8.27,Europe
+12,Artist_12,Country,983885,6.76,Australia
+13,Artist_13,Pop,504993,3.12,Australia
+14,Artist_14,Pop,165300,5.95,Australia
+15,Artist_15,Country,799077,6.43,South America
+16,Artist_16,Pop,116242,5.65,South America
+17,Artist_17,Rock,825551,6.77,South America
+18,Artist_18,Electronic,412562,2.78,Asia
+19,Artist_19,Jazz,877585,6.67,Africa
+20,Artist_20,Jazz,680624,8.83,North America
+21,Artist_21,Rock,228306,6.87,North America
+22,Artist_22,Electronic,359191,5.18,Australia
+23,Artist_23,Rock,394007,5.21,Australia
+24,Artist_24,Hip-Hop,728911,5.81,Africa
+25,Artist_25,Rock,139273,5.2,South America
+26,Artist_26,Pop,33977,7.34,North America
+27,Artist_27,Country,662491,2.0,Europe
+28,Artist_28,Rock,682657,9.86,South America
+29,Artist_29,Country,701760,4.39,North America
+30,Artist_30,Rock,782724,4.79,Europe
+31,Artist_31,Hip-Hop,842238,9.5,Africa
+32,Artist_32,Rock,2297,5.59,Asia
+33,Artist_33,Hip-Hop,884154,8.38,Australia
+34,Artist_34,Electronic,162503,1.7,Africa
+35,Artist_35,Rock,515284,0.94,Europe
+36,Artist_36,Jazz,797957,8.83,North America
+37,Artist_37,Rock,561933,6.63,South America
+38,Artist_38,Electronic,583201,5.1,Africa
+39,Artist_39,Hip-Hop,499471,9.07,Asia
+40,Artist_40,Jazz,751339,1.88,Africa
+41,Artist_41,Classical,495731,5.28,Asia
+42,Artist_42,Pop,376954,9.08,Europe
+43,Artist_43,Electronic,640754,0.17,Australia
+44,Artist_44,Rock,455680,0.33,Asia
+45,Artist_45,Country,453552,7.37,Europe
+46,Artist_46,Country,172157,6.01,Australia
+47,Artist_47,Country,680632,5.45,Africa
+48,Artist_48,Electronic,753420,2.5,North America
+49,Artist_49,Hip-Hop,207920,8.55,North America
+50,Artist_50,Electronic,415207,2.22,South America
+51,Artist_51,Classical,389721,8.38,Africa
+52,Artist_52,Hip-Hop,539134,9.26,South America
+53,Artist_53,Rock,267516,3.35,South America
+54,Artist_54,Jazz,840310,0.54,South America
+55,Artist_55,Electronic,338474,7.15,Asia
+56,Artist_56,Pop,449294,0.29,North America
+57,Artist_57,Pop,430209,3.76,Australia
+58,Artist_58,Electronic,832315,7.03,Australia
+59,Artist_59,Classical,899772,5.11,Europe
+60,Artist_60,Pop,277574,5.58,Africa
+61,Artist_61,Jazz,755679,7.54,Africa
+62,Artist_62,Hip-Hop,373976,9.15,Asia
+63,Artist_63,Rock,713709,7.17,South America
+64,Artist_64,Classical,833250,3.64,Australia
+65,Artist_65,Pop,543720,1.72,Asia
+66,Artist_66,Rock,100941,8.65,Australia
+67,Artist_67,Jazz,291033,0.73,South America
+68,Artist_68,Country,319741,9.87,Africa
+69,Artist_69,Hip-Hop,188338,6.71,South America
+70,Artist_70,Pop,306626,1.01,Africa
+71,Artist_71,Rock,929143,9.43,Australia
+72,Artist_72,Pop,626865,4.47,Europe
+73,Artist_73,Classical,951233,6.58,South America
+74,Artist_74,Hip-Hop,898578,2.97,South America
+75,Artist_75,Electronic,862582,9.72,Africa
+76,Artist_76,Rock,175336,4.25,North America
+77,Artist_77,Rock,457147,8.36,Europe
+78,Artist_78,Country,106296,4.0,Asia
+79,Artist_79,Country,590838,8.78,Australia
+80,Artist_80,Hip-Hop,879355,5.24,North America
+81,Artist_81,Pop,774472,5.84,Asia
+82,Artist_82,Rock,395622,2.29,North America
+83,Artist_83,Jazz,434901,8.07,Asia
+84,Artist_84,Jazz,887243,9.63,Africa
+85,Artist_85,Electronic,391218,6.5,North America
+86,Artist_86,Hip-Hop,788889,9.88,South America
+87,Artist_87,Pop,817909,7.73,Australia
+88,Artist_88,Country,618373,8.63,South America
+89,Artist_89,Electronic,926671,4.19,Europe
+90,Artist_90,Hip-Hop,973068,3.61,Asia
+91,Artist_91,Jazz,523238,0.96,Europe
+92,Artist_92,Hip-Hop,101024,4.34,Australia
+93,Artist_93,Rock,916884,3.04,South America
+94,Artist_94,Electronic,590057,6.57,Asia
+95,Artist_95,Hip-Hop,355846,4.86,Europe
+96,Artist_96,Rock,346055,2.04,North America
+97,Artist_97,Jazz,629339,2.0,North America
+98,Artist_98,Hip-Hop,332019,7.92,South America
+99,Artist_99,Electronic,742103,9.15,North America
+100,Artist_100,Electronic,263151,8.22,Europe
+101,Artist_101,Rock,561006,2.05,Africa
+102,Artist_102,Electronic,111133,0.38,North America
+103,Artist_103,Country,798935,5.55,Australia
+104,Artist_104,Hip-Hop,436020,4.8,Asia
+105,Artist_105,Rock,489814,3.23,North America
+106,Artist_106,Electronic,995133,5.28,Australia
+107,Artist_107,Rock,598306,5.92,Europe
+108,Artist_108,Classical,358053,3.96,Africa
+109,Artist_109,Pop,895728,2.46,Africa
+110,Artist_110,Classical,681349,6.24,Australia
+111,Artist_111,Electronic,786712,7.29,Asia
+112,Artist_112,Classical,625115,1.04,Asia
+113,Artist_113,Rock,104582,9.64,South America
+114,Artist_114,Electronic,30342,8.75,North America
+115,Artist_115,Country,862700,6.17,Europe
+116,Artist_116,Hip-Hop,746210,3.69,Africa
+117,Artist_117,Classical,546028,1.56,South America
+118,Artist_118,Jazz,82034,8.34,North America
+119,Artist_119,Electronic,311366,2.58,South America
+120,Artist_120,Country,959823,5.86,Africa
+121,Artist_121,Electronic,269588,1.58,North America
+122,Artist_122,Pop,579697,0.29,Asia
+123,Artist_123,Classical,843843,7.6,North America
+124,Artist_124,Classical,25510,3.38,Australia
+125,Artist_125,Hip-Hop,942288,8.5,Australia
+126,Artist_126,Hip-Hop,555910,6.46,Africa
+127,Artist_127,Electronic,270946,2.09,Africa
+128,Artist_128,Jazz,482095,8.26,Europe
+129,Artist_129,Hip-Hop,866248,5.65,Australia
+130,Artist_130,Hip-Hop,647350,7.31,Asia
+131,Artist_131,Hip-Hop,176506,1.36,Europe
+132,Artist_132,Hip-Hop,502889,2.09,Australia
+133,Artist_133,Country,153624,1.21,North America
+134,Artist_134,Jazz,808139,4.92,Africa
+135,Artist_135,Electronic,664051,6.22,Asia
+136,Artist_136,Pop,995221,7.51,North America
+137,Artist_137,Rock,217479,9.95,Africa
+138,Artist_138,Hip-Hop,16368,1.23,Europe
+139,Artist_139,Pop,403996,9.72,North America
+140,Artist_140,Rock,812860,5.06,Australia
+141,Artist_141,Hip-Hop,23860,8.51,Asia
+142,Artist_142,Classical,864454,3.6,Europe
+143,Artist_143,Jazz,351547,7.65,North America
+144,Artist_144,Country,334285,5.58,Africa
+145,Artist_145,Country,417583,2.58,South America
+146,Artist_146,Electronic,399424,8.64,Europe
+147,Artist_147,Country,511554,3.12,North America
+148,Artist_148,Electronic,673642,6.26,North America
+149,Artist_149,Jazz,231986,3.7,North America
+150,Artist_150,Classical,814450,9.98,North America
+151,Artist_151,Country,249502,5.31,Europe
+152,Artist_152,Hip-Hop,972600,3.6,North America
+153,Artist_153,Hip-Hop,701095,2.11,North America
+154,Artist_154,Electronic,447323,8.35,Australia
+155,Artist_155,Jazz,969790,0.62,Australia
+156,Artist_156,Jazz,76767,8.46,South America
+157,Artist_157,Hip-Hop,289372,5.72,Europe
+158,Artist_158,Electronic,168493,0.96,Africa
+159,Artist_159,Country,998883,0.73,South America
+160,Artist_160,Jazz,968225,0.89,Asia
+161,Artist_161,Country,414801,0.33,Australia
+162,Artist_162,Pop,724018,1.32,Africa
+163,Artist_163,Hip-Hop,213734,9.57,Asia
+164,Artist_164,Electronic,914356,8.1,Africa
+165,Artist_165,Pop,25818,4.95,Australia
+166,Artist_166,Country,219185,0.25,Europe
+167,Artist_167,Jazz,849473,2.79,South America
+168,Artist_168,Pop,655639,3.36,North America
+169,Artist_169,Classical,42560,5.17,Africa
+170,Artist_170,Classical,491913,0.14,South America
+171,Artist_171,Hip-Hop,306189,3.41,South America
+172,Artist_172,Pop,191473,4.31,Australia
+173,Artist_173,Pop,345587,5.21,South America
+174,Artist_174,Pop,688456,8.04,South America
+175,Artist_175,Classical,835285,6.29,North America
+176,Artist_176,Rock,62714,6.28,South America
+177,Artist_177,Jazz,703412,9.62,North America
+178,Artist_178,Classical,783206,8.28,South America
+179,Artist_179,Electronic,10026,5.1,Africa
+180,Artist_180,Country,381764,5.38,Europe
+181,Artist_181,Electronic,448716,8.32,South America
+182,Artist_182,Pop,65989,5.31,Asia
+183,Artist_183,Jazz,452765,4.32,Africa
+184,Artist_184,Rock,135054,3.51,Asia
+185,Artist_185,Classical,504733,1.94,Asia
+186,Artist_186,Classical,298863,7.33,Australia
+187,Artist_187,Pop,705168,9.93,Africa
+188,Artist_188,Hip-Hop,11817,1.14,Australia
+189,Artist_189,Pop,500963,3.82,Asia
+190,Artist_190,Classical,190308,5.76,Asia
+191,Artist_191,Rock,537221,8.03,Europe
+192,Artist_192,Hip-Hop,723644,8.33,Australia
+193,Artist_193,Rock,388714,8.07,North America
+194,Artist_194,Hip-Hop,118358,3.02,Africa
+195,Artist_195,Hip-Hop,712775,4.66,Europe
+196,Artist_196,Pop,340340,5.31,South America
+197,Artist_197,Classical,160367,9.18,South America
+198,Artist_198,Pop,739317,9.24,North America
+199,Artist_199,Country,858143,0.35,South America
+200,Artist_200,Rock,846138,2.04,South America
+201,Artist_201,Country,986290,2.32,Australia
+202,Artist_202,Pop,596340,9.68,Asia
+203,Artist_203,Country,955807,0.41,Europe
+204,Artist_204,Country,686685,2.27,North America
+205,Artist_205,Pop,559927,2.98,Africa
+206,Artist_206,Hip-Hop,851945,5.77,Australia
+207,Artist_207,Country,246081,7.21,Europe
+208,Artist_208,Country,742396,6.77,Asia
+209,Artist_209,Rock,355854,7.29,Asia
+210,Artist_210,Classical,849617,8.03,South America
+211,Artist_211,Jazz,45125,9.31,South America
+212,Artist_212,Electronic,212144,1.67,Africa
+213,Artist_213,Pop,80609,5.12,Asia
+214,Artist_214,Jazz,534451,8.62,Europe
+215,Artist_215,Rock,732161,9.0,Asia
+216,Artist_216,Country,93819,4.08,North America
+217,Artist_217,Rock,393133,8.21,Australia
+218,Artist_218,Jazz,608660,1.24,North America
+219,Artist_219,Rock,103266,3.61,South America
+220,Artist_220,Rock,902818,0.73,Europe
+221,Artist_221,Pop,536996,3.45,Australia
+222,Artist_222,Country,353536,2.99,North America
+223,Artist_223,Classical,390279,2.82,Europe
+224,Artist_224,Rock,672259,3.37,Asia
+225,Artist_225,Electronic,442395,8.17,Africa
+226,Artist_226,Hip-Hop,650911,4.2,Asia
+227,Artist_227,Pop,46200,3.58,Asia
+228,Artist_228,Jazz,787508,0.5,Africa
+229,Artist_229,Country,658090,1.11,North America
+230,Artist_230,Electronic,25960,7.46,South America
+231,Artist_231,Hip-Hop,486566,4.9,Africa
+232,Artist_232,Electronic,50927,0.15,Europe
+233,Artist_233,Rock,746286,8.54,Africa
+234,Artist_234,Pop,159980,9.38,Europe
+235,Artist_235,Country,560960,3.31,Europe
+236,Artist_236,Rock,653234,8.91,Australia
+237,Artist_237,Electronic,437681,5.99,North America
+238,Artist_238,Pop,294229,3.21,South America
+239,Artist_239,Jazz,670212,8.64,North America
+240,Artist_240,Pop,567178,1.67,Africa
+241,Artist_241,Country,339006,3.54,North America
+242,Artist_242,Jazz,783245,7.45,Asia
+243,Artist_243,Classical,371852,6.47,Europe
+244,Artist_244,Electronic,709941,7.79,Asia
+245,Artist_245,Electronic,13506,4.92,Africa
+246,Artist_246,Rock,66615,2.2,Europe
+247,Artist_247,Jazz,671903,8.24,Africa
+248,Artist_248,Classical,738420,2.76,South America
+249,Artist_249,Pop,419405,3.2,South America
+250,Artist_250,Jazz,174388,0.95,Asia
+251,Artist_251,Country,238566,1.74,Asia
+252,Artist_252,Classical,88449,1.01,South America
+253,Artist_253,Country,285453,5.77,Australia
+254,Artist_254,Pop,137625,3.53,Europe
+255,Artist_255,Country,17014,8.83,Asia
+256,Artist_256,Rock,278210,8.09,Australia
+257,Artist_257,Jazz,817342,9.03,Europe
+258,Artist_258,Jazz,891772,3.26,Europe
+259,Artist_259,Country,393164,0.58,South America
+260,Artist_260,Rock,509578,8.34,North America
+261,Artist_261,Jazz,368278,9.93,Africa
+262,Artist_262,Electronic,526456,8.83,North America
+263,Artist_263,Pop,438302,8.29,Asia
+264,Artist_264,Rock,702052,8.14,Africa
+265,Artist_265,Jazz,843304,2.57,Europe
+266,Artist_266,Electronic,284792,9.4,Africa
+267,Artist_267,Country,861819,0.38,North America
+268,Artist_268,Pop,157356,8.34,Africa
+269,Artist_269,Pop,15740,0.22,North America
+270,Artist_270,Electronic,692596,9.06,Africa
+271,Artist_271,Country,349549,3.08,Asia
+272,Artist_272,Jazz,995423,6.8,Africa
+273,Artist_273,Pop,384316,7.17,Asia
+274,Artist_274,Classical,504413,8.81,South America
+275,Artist_275,Classical,251170,9.98,Africa
+276,Artist_276,Rock,191968,4.84,North America
+277,Artist_277,Electronic,390438,7.96,Asia
+278,Artist_278,Country,313990,6.53,Asia
+279,Artist_279,Jazz,827322,7.85,Africa
+280,Artist_280,Jazz,877359,8.69,Australia
+281,Artist_281,Electronic,85807,2.51,South America
+282,Artist_282,Electronic,14114,8.64,Asia
+283,Artist_283,Hip-Hop,148521,0.29,Africa
+284,Artist_284,Rock,233629,7.95,Europe
+285,Artist_285,Country,798972,8.39,South America
+286,Artist_286,Hip-Hop,207863,2.35,South America
+287,Artist_287,Jazz,535622,1.08,North America
+288,Artist_288,Classical,527495,8.58,Asia
+289,Artist_289,Rock,427970,7.76,South America
+290,Artist_290,Country,975055,1.5,Asia
+291,Artist_291,Pop,356019,1.07,Australia
+292,Artist_292,Jazz,73251,8.03,Europe
+293,Artist_293,Classical,528366,1.6,South America
+294,Artist_294,Classical,779919,0.95,South America
+295,Artist_295,Pop,942687,8.25,North America
+296,Artist_296,Rock,528378,2.16,Europe
+297,Artist_297,Rock,806296,0.91,North America
+298,Artist_298,Jazz,264756,5.84,North America
+299,Artist_299,Electronic,882211,5.28,Europe
+300,Artist_300,Electronic,23769,9.11,South America
+301,Artist_301,Pop,450384,0.1,Europe
+302,Artist_302,Classical,24284,2.39,North America
+303,Artist_303,Pop,585318,6.43,Australia
+304,Artist_304,Rock,417058,3.54,Europe
+305,Artist_305,Country,636002,5.26,South America
+306,Artist_306,Classical,37526,0.51,North America
+307,Artist_307,Hip-Hop,857948,3.19,Asia
+308,Artist_308,Pop,747029,4.84,Europe
+309,Artist_309,Hip-Hop,368583,6.81,Africa
+310,Artist_310,Hip-Hop,484297,9.25,Australia
+311,Artist_311,Rock,577689,4.61,South America
+312,Artist_312,Rock,484240,9.76,Australia
+313,Artist_313,Electronic,943247,2.18,South America
+314,Artist_314,Jazz,946525,4.85,Europe
+315,Artist_315,Hip-Hop,339090,5.93,South America
+316,Artist_316,Pop,390810,3.62,North America
+317,Artist_317,Jazz,885560,2.31,Asia
+318,Artist_318,Pop,633097,2.28,Europe
+319,Artist_319,Hip-Hop,280676,0.35,Asia
+320,Artist_320,Classical,161214,9.05,South America
+321,Artist_321,Electronic,23548,5.16,Australia
+322,Artist_322,Pop,800153,6.11,Australia
+323,Artist_323,Hip-Hop,121304,5.7,North America
+324,Artist_324,Hip-Hop,437638,0.92,North America
+325,Artist_325,Rock,25376,2.4,Asia
+326,Artist_326,Country,651604,2.97,South America
+327,Artist_327,Pop,215830,6.02,Asia
+328,Artist_328,Classical,661381,9.7,Africa
+329,Artist_329,Rock,752583,0.34,Australia
+330,Artist_330,Rock,851611,8.42,North America
+331,Artist_331,Jazz,688156,6.04,Australia
+332,Artist_332,Rock,786182,5.29,North America
+333,Artist_333,Rock,252014,6.68,South America
+334,Artist_334,Hip-Hop,320713,3.0,Asia
+335,Artist_335,Rock,927436,8.74,Africa
+336,Artist_336,Country,395859,1.5,Australia
+337,Artist_337,Hip-Hop,413327,0.31,Asia
+338,Artist_338,Rock,146891,5.97,Europe
+339,Artist_339,Electronic,120871,7.7,Asia
+340,Artist_340,Pop,262161,6.38,South America
+341,Artist_341,Hip-Hop,593563,9.04,Africa
+342,Artist_342,Classical,696617,6.1,Australia
+343,Artist_343,Classical,715849,2.0,Australia
+344,Artist_344,Rock,141280,2.12,Europe
+345,Artist_345,Hip-Hop,556090,5.71,Europe
+346,Artist_346,Classical,655739,4.98,Africa
+347,Artist_347,Classical,590939,2.34,South America
+348,Artist_348,Jazz,526669,6.44,Africa
+349,Artist_349,Pop,668266,2.85,North America
+350,Artist_350,Country,513590,2.23,Australia
+351,Artist_351,Country,86691,5.44,Australia
+352,Artist_352,Hip-Hop,919991,5.16,Asia
+353,Artist_353,Country,444212,7.47,South America
+354,Artist_354,Jazz,711008,5.88,Europe
+355,Artist_355,Electronic,599589,5.6,Europe
+356,Artist_356,Jazz,569494,1.96,Africa
+357,Artist_357,Electronic,421149,6.34,Australia
+358,Artist_358,Electronic,551466,5.42,North America
+359,Artist_359,Country,792537,0.13,Asia
+360,Artist_360,Pop,335736,6.41,Asia
+361,Artist_361,Jazz,967383,1.42,South America
+362,Artist_362,Country,722791,8.04,Australia
+363,Artist_363,Electronic,398821,8.36,North America
+364,Artist_364,Country,645381,7.89,Asia
+365,Artist_365,Electronic,172066,3.08,Africa
+366,Artist_366,Rock,4493,7.92,North America
+367,Artist_367,Classical,694234,9.52,South America
+368,Artist_368,Pop,522927,5.5,Asia
+369,Artist_369,Rock,710952,7.92,Africa
+370,Artist_370,Hip-Hop,450024,1.36,North America
+371,Artist_371,Jazz,928093,4.7,Australia
+372,Artist_372,Hip-Hop,770449,3.55,North America
+373,Artist_373,Jazz,375142,1.34,Asia
+374,Artist_374,Hip-Hop,739458,8.21,Africa
+375,Artist_375,Hip-Hop,997027,8.04,North America
+376,Artist_376,Classical,114516,4.79,Asia
+377,Artist_377,Country,868793,8.66,Asia
+378,Artist_378,Country,852540,2.88,Africa
+379,Artist_379,Country,873375,3.47,Asia
+380,Artist_380,Electronic,836935,3.17,South America
+381,Artist_381,Jazz,254674,9.61,South America
+382,Artist_382,Hip-Hop,441555,5.23,South America
+383,Artist_383,Electronic,131514,5.78,Australia
+384,Artist_384,Jazz,883427,0.82,Europe
+385,Artist_385,Country,985936,1.12,Asia
+386,Artist_386,Hip-Hop,179900,8.76,North America
+387,Artist_387,Rock,168649,2.37,Europe
+388,Artist_388,Pop,45657,0.28,Australia
+389,Artist_389,Rock,562902,0.86,Asia
+390,Artist_390,Electronic,961893,9.62,Australia
+391,Artist_391,Rock,965177,5.0,North America
+392,Artist_392,Classical,612503,8.74,Australia
+393,Artist_393,Country,399329,4.45,South America
+394,Artist_394,Jazz,522242,3.51,Africa
+395,Artist_395,Classical,786646,0.53,Africa
+396,Artist_396,Rock,984511,5.15,Africa
+397,Artist_397,Country,518989,1.58,Africa
+398,Artist_398,Pop,313881,5.49,Europe
+399,Artist_399,Classical,426430,8.75,North America
+400,Artist_400,Jazz,641738,8.12,Europe
+401,Artist_401,Rock,114571,9.09,Australia
+402,Artist_402,Pop,538103,8.4,Europe
+403,Artist_403,Classical,981910,6.12,South America
+404,Artist_404,Classical,32754,4.09,Asia
+405,Artist_405,Pop,736432,8.89,North America
+406,Artist_406,Hip-Hop,166298,8.39,Africa
+407,Artist_407,Pop,470273,9.08,Europe
+408,Artist_408,Country,627148,7.26,Australia
+409,Artist_409,Pop,417876,0.81,Europe
+410,Artist_410,Country,130815,5.62,Asia
+411,Artist_411,Rock,984658,6.17,South America
+412,Artist_412,Hip-Hop,359955,2.47,South America
+413,Artist_413,Rock,57819,6.94,Africa
+414,Artist_414,Jazz,946613,4.66,North America
+415,Artist_415,Rock,854672,4.52,Europe
+416,Artist_416,Pop,611958,7.68,North America
+417,Artist_417,Hip-Hop,232916,9.9,Asia
+418,Artist_418,Jazz,625957,9.24,Asia
+419,Artist_419,Classical,633025,4.75,North America
+420,Artist_420,Jazz,232613,0.99,South America
+421,Artist_421,Country,842696,9.63,Africa
+422,Artist_422,Rock,907537,0.57,North America
+423,Artist_423,Hip-Hop,423486,1.78,South America
+424,Artist_424,Electronic,407697,8.63,Europe
+425,Artist_425,Classical,972153,3.87,Asia
+426,Artist_426,Jazz,321836,5.46,North America
+427,Artist_427,Jazz,723539,3.57,South America
+428,Artist_428,Classical,416199,8.22,Asia
+429,Artist_429,Jazz,467615,3.54,Asia
+430,Artist_430,Jazz,541488,2.96,South America
+431,Artist_431,Rock,661570,0.47,South America
+432,Artist_432,Electronic,325342,2.52,North America
+433,Artist_433,Pop,873757,3.14,North America
+434,Artist_434,Rock,912613,6.59,Asia
+435,Artist_435,Hip-Hop,41644,0.39,South America
+436,Artist_436,Hip-Hop,476317,6.02,Asia
+437,Artist_437,Hip-Hop,487150,9.84,North America
+438,Artist_438,Electronic,762241,8.09,North America
+439,Artist_439,Classical,448399,5.62,South America
+440,Artist_440,Classical,504880,1.99,Australia
+441,Artist_441,Classical,684613,1.67,North America
+442,Artist_442,Classical,217267,7.35,Africa
+443,Artist_443,Hip-Hop,236871,1.43,Asia
+444,Artist_444,Hip-Hop,564238,6.75,Europe
+445,Artist_445,Hip-Hop,717649,5.25,Asia
+446,Artist_446,Jazz,156061,9.82,North America
+447,Artist_447,Hip-Hop,56750,1.35,South America
+448,Artist_448,Classical,293838,5.0,Asia
+449,Artist_449,Country,767794,6.01,Africa
+450,Artist_450,Electronic,469876,0.81,Australia
+451,Artist_451,Pop,945544,2.33,Africa
+452,Artist_452,Hip-Hop,985054,0.53,Europe
+453,Artist_453,Electronic,712595,9.44,Australia
+454,Artist_454,Hip-Hop,936217,4.54,South America
+455,Artist_455,Pop,508350,9.02,Australia
+456,Artist_456,Pop,592357,0.51,Australia
+457,Artist_457,Hip-Hop,341668,3.69,North America
+458,Artist_458,Hip-Hop,365067,2.01,South America
+459,Artist_459,Electronic,29911,1.76,Asia
+460,Artist_460,Rock,200075,9.66,Asia
+461,Artist_461,Country,659033,9.81,North America
+462,Artist_462,Pop,947329,9.71,North America
+463,Artist_463,Classical,226668,9.43,Asia
+464,Artist_464,Country,298310,3.81,North America
+465,Artist_465,Rock,458103,2.61,Asia
+466,Artist_466,Jazz,58771,2.95,North America
+467,Artist_467,Jazz,622675,3.26,South America
+468,Artist_468,Classical,774748,4.43,Australia
+469,Artist_469,Hip-Hop,568535,5.57,South America
+470,Artist_470,Electronic,11454,9.26,Asia
+471,Artist_471,Classical,228978,0.12,Australia
+472,Artist_472,Country,682777,6.77,Europe
+473,Artist_473,Country,248737,1.21,Africa
+474,Artist_474,Rock,895213,6.76,South America
+475,Artist_475,Jazz,849055,0.3,South America
+476,Artist_476,Rock,132940,5.54,South America
+477,Artist_477,Jazz,464739,3.56,North America
+478,Artist_478,Hip-Hop,869322,7.5,Africa
+479,Artist_479,Electronic,876044,5.18,Africa
+480,Artist_480,Classical,233855,7.92,Africa
+481,Artist_481,Pop,186991,8.1,Australia
+482,Artist_482,Electronic,494160,8.85,South America
+483,Artist_483,Electronic,821225,3.75,North America
+484,Artist_484,Classical,603401,1.77,North America
+485,Artist_485,Hip-Hop,580990,4.35,South America
+486,Artist_486,Hip-Hop,519824,4.68,Africa
+487,Artist_487,Electronic,365954,4.35,Africa
+488,Artist_488,Hip-Hop,887086,4.96,South America
+489,Artist_489,Hip-Hop,832773,1.6,South America
+490,Artist_490,Electronic,646064,3.17,Australia
+491,Artist_491,Electronic,115790,9.26,Africa
+492,Artist_492,Jazz,41648,4.49,Africa
+493,Artist_493,Electronic,127614,7.31,North America
+494,Artist_494,Electronic,931571,7.11,Asia
+495,Artist_495,Hip-Hop,942787,3.35,South America
+496,Artist_496,Rock,851849,2.43,Africa
+497,Artist_497,Hip-Hop,678144,0.86,South America
+498,Artist_498,Electronic,288188,8.06,Australia
+499,Artist_499,Rock,421717,4.63,North America
+500,Artist_500,Electronic,228577,8.3,North America
+501,Artist_501,Hip-Hop,184298,3.88,North America
+502,Artist_502,Jazz,2915,7.98,Australia
+503,Artist_503,Jazz,355565,2.41,Africa
+504,Artist_504,Jazz,502302,7.12,South America
+505,Artist_505,Hip-Hop,918460,0.49,North America
+506,Artist_506,Country,755639,0.85,Africa
+507,Artist_507,Country,128043,3.26,South America
+508,Artist_508,Jazz,419101,9.21,Asia
+509,Artist_509,Rock,491570,1.29,Asia
+510,Artist_510,Classical,575629,8.04,Australia
+511,Artist_511,Classical,22491,3.63,North America
+512,Artist_512,Country,196132,3.36,South America
+513,Artist_513,Jazz,898665,3.0,South America
+514,Artist_514,Jazz,774517,5.07,Australia
+515,Artist_515,Rock,954203,8.31,North America
+516,Artist_516,Country,732868,3.52,Africa
+517,Artist_517,Jazz,173051,4.67,Europe
+518,Artist_518,Country,128577,7.08,Asia
+519,Artist_519,Pop,669352,1.03,Africa
+520,Artist_520,Country,275837,6.09,Europe
+521,Artist_521,Hip-Hop,319369,1.52,Europe
+522,Artist_522,Hip-Hop,636802,1.66,North America
+523,Artist_523,Pop,336004,5.87,Asia
+524,Artist_524,Rock,246227,2.04,Australia
+525,Artist_525,Classical,969312,6.03,Australia
+526,Artist_526,Rock,237955,8.98,South America
+527,Artist_527,Pop,773477,4.59,Australia
+528,Artist_528,Classical,640249,6.33,Asia
+529,Artist_529,Country,182406,2.77,Europe
+530,Artist_530,Classical,712362,5.31,Asia
+531,Artist_531,Electronic,398141,7.7,Asia
+532,Artist_532,Pop,363753,9.67,Australia
+533,Artist_533,Hip-Hop,646259,7.9,North America
+534,Artist_534,Jazz,430392,4.11,Africa
+535,Artist_535,Country,29538,8.91,South America
+536,Artist_536,Rock,904868,1.27,Australia
+537,Artist_537,Country,950972,9.17,North America
+538,Artist_538,Jazz,27546,9.47,Europe
+539,Artist_539,Classical,696963,4.45,Europe
+540,Artist_540,Country,430221,8.66,Europe
+541,Artist_541,Hip-Hop,603234,5.07,North America
+542,Artist_542,Jazz,642652,8.29,South America
+543,Artist_543,Hip-Hop,748389,3.0,Asia
+544,Artist_544,Hip-Hop,805553,0.38,North America
+545,Artist_545,Pop,482462,8.0,North America
+546,Artist_546,Pop,218096,3.3,North America
+547,Artist_547,Pop,852315,2.23,Asia
+548,Artist_548,Hip-Hop,574850,6.69,Australia
+549,Artist_549,Country,343350,4.78,Africa
+550,Artist_550,Jazz,175324,6.24,Africa
+551,Artist_551,Pop,418101,6.63,Europe
+552,Artist_552,Jazz,206511,1.03,Australia
+553,Artist_553,Hip-Hop,726170,5.95,South America
+554,Artist_554,Country,177533,9.98,Australia
+555,Artist_555,Electronic,494272,3.02,Europe
+556,Artist_556,Electronic,101369,1.07,South America
+557,Artist_557,Country,445226,5.46,Europe
+558,Artist_558,Electronic,935897,4.01,Asia
+559,Artist_559,Rock,217740,5.37,Europe
+560,Artist_560,Rock,737585,2.72,Australia
+561,Artist_561,Hip-Hop,644141,8.38,Australia
+562,Artist_562,Pop,795243,6.22,South America
+563,Artist_563,Hip-Hop,340269,3.89,Europe
+564,Artist_564,Electronic,842389,0.59,Africa
+565,Artist_565,Hip-Hop,987280,4.55,Asia
+566,Artist_566,Hip-Hop,141388,9.87,Australia
+567,Artist_567,Classical,48364,6.3,North America
+568,Artist_568,Electronic,570637,1.15,South America
+569,Artist_569,Pop,24005,4.2,Australia
+570,Artist_570,Jazz,531714,2.49,South America
+571,Artist_571,Country,469394,4.81,Australia
+572,Artist_572,Hip-Hop,320454,4.49,South America
+573,Artist_573,Hip-Hop,190684,1.08,South America
+574,Artist_574,Hip-Hop,634295,8.26,Asia
+575,Artist_575,Hip-Hop,84280,1.16,North America
+576,Artist_576,Country,385844,5.93,Europe
+577,Artist_577,Rock,797616,5.78,Australia
+578,Artist_578,Pop,343483,2.04,Europe
+579,Artist_579,Rock,278418,7.74,Europe
+580,Artist_580,Hip-Hop,180526,3.91,Africa
+581,Artist_581,Rock,665796,9.7,Asia
+582,Artist_582,Pop,910851,9.83,North America
+583,Artist_583,Electronic,272659,2.6,Europe
+584,Artist_584,Rock,923758,9.53,Australia
+585,Artist_585,Rock,995973,6.08,Asia
+586,Artist_586,Classical,614514,6.29,Europe
+587,Artist_587,Hip-Hop,144823,4.44,Africa
+588,Artist_588,Classical,677185,6.01,Asia
+589,Artist_589,Classical,185884,6.37,Europe
+590,Artist_590,Pop,949553,4.33,South America
+591,Artist_591,Hip-Hop,624951,8.74,Africa
+592,Artist_592,Electronic,334239,4.87,Africa
+593,Artist_593,Electronic,97755,7.42,North America
+594,Artist_594,Hip-Hop,651717,4.42,Australia
+595,Artist_595,Jazz,575374,1.53,Europe
+596,Artist_596,Rock,865719,1.24,Asia
+597,Artist_597,Pop,47681,0.55,South America
+598,Artist_598,Pop,275507,6.61,Asia
+599,Artist_599,Rock,899915,9.87,South America
+600,Artist_600,Rock,29094,7.93,Australia
+601,Artist_601,Electronic,219740,4.35,Asia
+602,Artist_602,Pop,403713,3.49,Europe
+603,Artist_603,Pop,682176,3.85,Australia
+604,Artist_604,Electronic,670324,7.05,Africa
+605,Artist_605,Pop,44755,3.71,Asia
+606,Artist_606,Jazz,837458,1.31,Asia
+607,Artist_607,Pop,146473,4.39,Africa
+608,Artist_608,Electronic,47220,2.32,South America
+609,Artist_609,Pop,449059,7.47,North America
+610,Artist_610,Rock,300460,5.53,North America
+611,Artist_611,Hip-Hop,785818,9.46,South America
+612,Artist_612,Rock,676855,5.77,Europe
+613,Artist_613,Classical,321492,0.93,Asia
+614,Artist_614,Rock,626871,1.5,Africa
+615,Artist_615,Jazz,683391,6.32,Australia
+616,Artist_616,Pop,274929,7.19,Asia
+617,Artist_617,Hip-Hop,881915,9.84,North America
+618,Artist_618,Hip-Hop,566635,2.34,Africa
+619,Artist_619,Rock,906684,9.37,Africa
+620,Artist_620,Country,961068,3.92,Europe
+621,Artist_621,Rock,4526,5.75,Asia
+622,Artist_622,Hip-Hop,583300,8.46,South America
+623,Artist_623,Rock,245952,5.25,Europe
+624,Artist_624,Electronic,254341,3.02,North America
+625,Artist_625,Classical,247296,4.43,Asia
+626,Artist_626,Classical,188495,1.54,South America
+627,Artist_627,Jazz,344206,3.51,Asia
+628,Artist_628,Rock,354558,8.39,Africa
+629,Artist_629,Electronic,69467,4.64,Africa
+630,Artist_630,Hip-Hop,214164,1.07,Asia
+631,Artist_631,Pop,556531,5.85,Asia
+632,Artist_632,Pop,751996,9.74,Europe
+633,Artist_633,Pop,742816,6.04,Australia
+634,Artist_634,Electronic,853061,6.84,Europe
+635,Artist_635,Rock,260322,5.67,North America
+636,Artist_636,Classical,509636,9.85,Asia
+637,Artist_637,Jazz,497923,8.9,North America
+638,Artist_638,Electronic,664197,1.11,Asia
+639,Artist_639,Rock,35808,9.35,Africa
+640,Artist_640,Rock,106425,2.97,Australia
+641,Artist_641,Electronic,180230,3.36,North America
+642,Artist_642,Country,627008,5.65,Asia
+643,Artist_643,Pop,74464,9.52,South America
+644,Artist_644,Classical,165491,8.91,Australia
+645,Artist_645,Electronic,214578,2.15,Australia
+646,Artist_646,Hip-Hop,236105,4.77,Europe
+647,Artist_647,Country,733773,2.04,Australia
+648,Artist_648,Country,747611,9.22,Europe
+649,Artist_649,Country,86233,5.47,Africa
+650,Artist_650,Rock,63138,4.79,Australia
+651,Artist_651,Classical,575866,7.31,Australia
+652,Artist_652,Pop,705841,1.76,Asia
+653,Artist_653,Electronic,110257,2.48,Africa
+654,Artist_654,Electronic,294919,9.0,Australia
+655,Artist_655,Classical,116102,3.29,Asia
+656,Artist_656,Rock,656185,6.23,Europe
+657,Artist_657,Rock,89564,9.77,Asia
+658,Artist_658,Rock,412394,6.42,North America
+659,Artist_659,Jazz,378323,5.13,Europe
+660,Artist_660,Classical,613414,0.84,Africa
+661,Artist_661,Jazz,967561,5.21,Europe
+662,Artist_662,Rock,179243,4.17,Europe
+663,Artist_663,Pop,759639,2.83,Australia
+664,Artist_664,Jazz,655736,2.93,North America
+665,Artist_665,Rock,679071,9.93,South America
+666,Artist_666,Classical,29656,7.55,Australia
+667,Artist_667,Hip-Hop,829438,9.93,North America
+668,Artist_668,Jazz,731474,0.35,Australia
+669,Artist_669,Hip-Hop,16323,2.63,Europe
+670,Artist_670,Rock,211484,0.93,Asia
+671,Artist_671,Classical,343601,4.4,Africa
+672,Artist_672,Jazz,42123,0.69,Europe
+673,Artist_673,Country,929670,0.15,Australia
+674,Artist_674,Electronic,53078,5.86,Asia
+675,Artist_675,Country,756962,5.92,Africa
+676,Artist_676,Pop,83175,7.2,Asia
+677,Artist_677,Pop,971180,4.64,Asia
+678,Artist_678,Country,357238,3.22,Africa
+679,Artist_679,Classical,90298,6.96,South America
+680,Artist_680,Classical,777406,1.7,Asia
+681,Artist_681,Jazz,544189,8.0,North America
+682,Artist_682,Country,15858,0.56,South America
+683,Artist_683,Hip-Hop,634899,0.61,Africa
+684,Artist_684,Pop,27931,9.54,Africa
+685,Artist_685,Jazz,688706,5.64,South America
+686,Artist_686,Classical,647406,9.99,Europe
+687,Artist_687,Electronic,173320,0.27,Asia
+688,Artist_688,Electronic,563469,2.72,Asia
+689,Artist_689,Country,694663,1.42,North America
+690,Artist_690,Hip-Hop,249016,0.69,South America
+691,Artist_691,Hip-Hop,89397,9.43,Asia
+692,Artist_692,Electronic,207310,8.34,North America
+693,Artist_693,Classical,104341,8.29,Europe
+694,Artist_694,Country,794638,0.61,North America
+695,Artist_695,Hip-Hop,503168,1.85,South America
+696,Artist_696,Classical,401491,4.76,Australia
+697,Artist_697,Rock,181923,4.73,South America
+698,Artist_698,Classical,670287,7.87,Australia
+699,Artist_699,Hip-Hop,943271,9.16,North America
+700,Artist_700,Country,446377,3.63,Asia
+701,Artist_701,Jazz,717962,9.84,North America
+702,Artist_702,Electronic,723920,1.73,Europe
+703,Artist_703,Classical,908709,9.2,Europe
+704,Artist_704,Electronic,702517,0.7,Europe
+705,Artist_705,Hip-Hop,30101,8.98,Australia
+706,Artist_706,Electronic,163830,2.51,Europe
+707,Artist_707,Country,517674,1.88,North America
+708,Artist_708,Classical,394005,4.61,Europe
+709,Artist_709,Jazz,129954,8.64,Asia
+710,Artist_710,Rock,169347,4.45,Asia
+711,Artist_711,Electronic,691928,4.99,South America
+712,Artist_712,Jazz,367020,3.79,South America
+713,Artist_713,Jazz,18722,2.64,Africa
+714,Artist_714,Classical,437565,1.87,Asia
+715,Artist_715,Electronic,23475,0.2,Africa
+716,Artist_716,Hip-Hop,208467,5.62,North America
+717,Artist_717,Country,374894,8.29,Europe
+718,Artist_718,Jazz,595946,4.76,South America
+719,Artist_719,Electronic,613652,6.11,Europe
+720,Artist_720,Country,722326,2.16,Europe
+721,Artist_721,Rock,504325,2.35,Australia
+722,Artist_722,Pop,868405,8.95,North America
+723,Artist_723,Country,723518,6.92,North America
+724,Artist_724,Rock,821144,3.9,North America
+725,Artist_725,Hip-Hop,277590,7.7,Australia
+726,Artist_726,Rock,214713,6.35,Africa
+727,Artist_727,Pop,83970,2.48,South America
+728,Artist_728,Hip-Hop,867915,4.88,North America
+729,Artist_729,Classical,746765,4.71,Africa
+730,Artist_730,Classical,333705,3.81,South America
+731,Artist_731,Pop,602805,3.89,South America
+732,Artist_732,Pop,53542,0.42,Africa
+733,Artist_733,Country,900556,3.24,Africa
+734,Artist_734,Country,225314,4.5,North America
+735,Artist_735,Country,84030,9.93,Europe
+736,Artist_736,Pop,179792,0.18,Asia
+737,Artist_737,Classical,390064,0.37,South America
+738,Artist_738,Hip-Hop,830217,7.44,South America
+739,Artist_739,Country,8029,6.72,Europe
+740,Artist_740,Classical,552256,1.65,North America
+741,Artist_741,Country,557671,1.42,Africa
+742,Artist_742,Rock,201780,3.3,South America
+743,Artist_743,Pop,310878,0.16,South America
+744,Artist_744,Classical,536500,3.75,Asia
+745,Artist_745,Pop,559815,9.8,North America
+746,Artist_746,Jazz,283745,5.56,Asia
+747,Artist_747,Electronic,583002,6.01,North America
+748,Artist_748,Hip-Hop,23320,5.13,North America
+749,Artist_749,Jazz,337013,9.26,North America
+750,Artist_750,Country,623823,1.19,Europe
+751,Artist_751,Country,176118,1.89,Australia
+752,Artist_752,Classical,816121,5.21,Australia
+753,Artist_753,Jazz,932118,8.0,South America
+754,Artist_754,Jazz,810322,8.38,North America
+755,Artist_755,Pop,271504,2.88,South America
+756,Artist_756,Hip-Hop,715209,7.65,Asia
+757,Artist_757,Hip-Hop,322791,4.18,Africa
+758,Artist_758,Pop,60957,4.62,South America
+759,Artist_759,Country,184350,2.93,North America
+760,Artist_760,Jazz,51172,1.07,Europe
+761,Artist_761,Pop,787971,9.27,South America
+762,Artist_762,Country,916996,3.43,Africa
+763,Artist_763,Electronic,622764,5.29,Europe
+764,Artist_764,Country,462643,1.61,Europe
+765,Artist_765,Country,106756,3.46,Asia
+766,Artist_766,Hip-Hop,818062,5.48,North America
+767,Artist_767,Jazz,842531,5.87,Europe
+768,Artist_768,Country,802063,6.6,Australia
+769,Artist_769,Hip-Hop,324382,8.63,Africa
+770,Artist_770,Country,628717,8.3,Australia
+771,Artist_771,Rock,195239,3.87,Asia
+772,Artist_772,Classical,701126,9.78,North America
+773,Artist_773,Pop,618988,5.18,Asia
+774,Artist_774,Classical,282371,9.46,Asia
+775,Artist_775,Hip-Hop,234545,6.68,North America
+776,Artist_776,Hip-Hop,84471,2.76,South America
+777,Artist_777,Rock,459244,3.32,North America
+778,Artist_778,Electronic,33972,2.88,Asia
+779,Artist_779,Electronic,785403,7.71,Australia
+780,Artist_780,Pop,988267,4.61,Africa
+781,Artist_781,Rock,597412,2.05,Africa
+782,Artist_782,Hip-Hop,341315,3.62,North America
+783,Artist_783,Rock,684314,6.69,Europe
+784,Artist_784,Jazz,468482,3.67,South America
+785,Artist_785,Hip-Hop,793241,6.36,Africa
+786,Artist_786,Rock,439450,1.08,South America
+787,Artist_787,Pop,526033,7.81,North America
+788,Artist_788,Jazz,62101,5.25,North America
+789,Artist_789,Rock,555269,5.2,Asia
+790,Artist_790,Country,357735,7.12,Australia
+791,Artist_791,Rock,607637,9.32,Asia
+792,Artist_792,Jazz,791060,1.47,North America
+793,Artist_793,Classical,671921,8.96,Asia
+794,Artist_794,Hip-Hop,24023,6.37,Africa
+795,Artist_795,Jazz,597944,7.22,South America
+796,Artist_796,Classical,46219,7.27,Asia
+797,Artist_797,Country,846122,0.93,Europe
+798,Artist_798,Pop,243005,3.09,Australia
+799,Artist_799,Jazz,360405,5.67,Africa
+800,Artist_800,Country,633333,2.11,Europe
+801,Artist_801,Hip-Hop,197108,7.03,North America
+802,Artist_802,Jazz,146345,1.95,Africa
+803,Artist_803,Electronic,910835,0.59,Africa
+804,Artist_804,Electronic,622066,9.14,South America
+805,Artist_805,Country,325684,7.76,North America
+806,Artist_806,Jazz,399047,4.7,Australia
+807,Artist_807,Pop,300503,9.08,Asia
+808,Artist_808,Jazz,613894,2.97,Europe
+809,Artist_809,Classical,220714,3.73,North America
+810,Artist_810,Classical,150699,9.21,North America
+811,Artist_811,Classical,923204,1.86,Australia
+812,Artist_812,Hip-Hop,211386,2.43,North America
+813,Artist_813,Classical,662942,1.45,Australia
+814,Artist_814,Country,910471,0.84,Australia
+815,Artist_815,Hip-Hop,818550,7.29,Africa
+816,Artist_816,Country,108729,3.34,Europe
+817,Artist_817,Hip-Hop,533595,7.53,South America
+818,Artist_818,Jazz,549861,4.02,Europe
+819,Artist_819,Classical,713696,9.85,Asia
+820,Artist_820,Electronic,968777,9.64,Australia
+821,Artist_821,Country,507135,4.59,South America
+822,Artist_822,Rock,490555,1.93,Africa
+823,Artist_823,Pop,226795,6.71,South America
+824,Artist_824,Hip-Hop,954102,2.88,Africa
+825,Artist_825,Classical,387126,5.78,Europe
+826,Artist_826,Rock,153068,8.75,South America
+827,Artist_827,Hip-Hop,897860,9.13,Asia
+828,Artist_828,Pop,643979,9.82,Asia
+829,Artist_829,Rock,285333,8.23,Africa
+830,Artist_830,Hip-Hop,874627,3.32,South America
+831,Artist_831,Classical,18186,2.31,Africa
+832,Artist_832,Hip-Hop,908195,5.11,South America
+833,Artist_833,Rock,591078,2.39,Australia
+834,Artist_834,Rock,62339,8.33,Africa
+835,Artist_835,Electronic,744632,6.07,Europe
+836,Artist_836,Electronic,26615,6.44,North America
+837,Artist_837,Country,798302,3.61,Africa
+838,Artist_838,Rock,977888,3.31,South America
+839,Artist_839,Classical,454324,7.13,South America
+840,Artist_840,Hip-Hop,566068,1.93,Europe
+841,Artist_841,Pop,987590,6.25,South America
+842,Artist_842,Electronic,433132,1.25,South America
+843,Artist_843,Country,531529,8.07,Africa
+844,Artist_844,Rock,462327,4.96,Africa
+845,Artist_845,Classical,961019,8.65,North America
+846,Artist_846,Classical,764764,0.13,Asia
+847,Artist_847,Jazz,884761,6.08,South America
+848,Artist_848,Classical,803619,6.66,Africa
+849,Artist_849,Electronic,769270,4.68,Europe
+850,Artist_850,Jazz,282829,3.56,Asia
+851,Artist_851,Jazz,515867,9.73,South America
+852,Artist_852,Electronic,417522,4.86,Asia
+853,Artist_853,Hip-Hop,703162,6.63,Africa
+854,Artist_854,Hip-Hop,692250,4.96,Europe
+855,Artist_855,Country,23637,0.37,Asia
+856,Artist_856,Classical,413460,9.51,Asia
+857,Artist_857,Pop,516369,3.16,Europe
+858,Artist_858,Hip-Hop,596198,7.96,Europe
+859,Artist_859,Hip-Hop,547746,2.72,South America
+860,Artist_860,Rock,86397,1.95,Europe
+861,Artist_861,Electronic,39411,5.69,Europe
+862,Artist_862,Electronic,560805,0.86,Australia
+863,Artist_863,Electronic,16329,8.66,North America
+864,Artist_864,Jazz,36416,6.07,South America
+865,Artist_865,Pop,627731,8.33,South America
+866,Artist_866,Jazz,197810,3.72,Europe
+867,Artist_867,Country,934678,6.21,Australia
+868,Artist_868,Pop,954561,1.55,Europe
+869,Artist_869,Electronic,38838,7.45,North America
+870,Artist_870,Country,484926,0.56,Europe
+871,Artist_871,Rock,949337,7.5,Europe
+872,Artist_872,Hip-Hop,336126,1.82,Africa
+873,Artist_873,Electronic,32310,7.65,South America
+874,Artist_874,Electronic,93436,4.39,Europe
+875,Artist_875,Electronic,602500,2.52,Europe
+876,Artist_876,Classical,22043,5.44,South America
+877,Artist_877,Electronic,111765,1.76,Africa
+878,Artist_878,Rock,733830,0.33,Australia
+879,Artist_879,Pop,545278,5.6,North America
+880,Artist_880,Classical,525098,9.2,Europe
+881,Artist_881,Pop,129958,3.55,Africa
+882,Artist_882,Rock,395367,1.07,Asia
+883,Artist_883,Electronic,451892,8.05,Asia
+884,Artist_884,Electronic,471222,4.31,Europe
+885,Artist_885,Rock,230082,6.01,Africa
+886,Artist_886,Country,460635,8.93,Australia
+887,Artist_887,Rock,41128,7.77,Australia
+888,Artist_888,Rock,447854,0.44,Africa
+889,Artist_889,Rock,940000,7.86,Africa
+890,Artist_890,Hip-Hop,15843,7.94,North America
+891,Artist_891,Jazz,155848,3.51,Africa
+892,Artist_892,Rock,718927,3.43,South America
+893,Artist_893,Hip-Hop,371643,5.06,Asia
+894,Artist_894,Country,910442,4.29,South America
+895,Artist_895,Hip-Hop,510078,0.19,North America
+896,Artist_896,Hip-Hop,224131,3.78,South America
+897,Artist_897,Electronic,555187,1.96,Europe
+898,Artist_898,Rock,981174,5.21,Australia
+899,Artist_899,Hip-Hop,314587,6.61,South America
+900,Artist_900,Classical,50693,5.32,Asia
+901,Artist_901,Rock,151087,1.97,Asia
+902,Artist_902,Country,974438,4.61,Europe
+903,Artist_903,Country,455264,0.57,Europe
+904,Artist_904,Pop,824909,2.58,Australia
+905,Artist_905,Country,69669,5.98,North America
+906,Artist_906,Classical,541483,3.22,Australia
+907,Artist_907,Electronic,194832,1.88,Africa
+908,Artist_908,Hip-Hop,709770,5.25,Australia
+909,Artist_909,Country,6346,5.86,Europe
+910,Artist_910,Jazz,976933,1.19,Asia
+911,Artist_911,Hip-Hop,32467,1.98,North America
+912,Artist_912,Jazz,895368,5.79,Europe
+913,Artist_913,Jazz,970434,7.59,Africa
+914,Artist_914,Hip-Hop,383391,9.78,South America
+915,Artist_915,Rock,221211,8.51,South America
+916,Artist_916,Pop,892868,8.59,North America
+917,Artist_917,Jazz,955667,1.61,Europe
+918,Artist_918,Pop,128961,8.02,Europe
+919,Artist_919,Country,935329,2.21,Asia
+920,Artist_920,Rock,327608,0.27,North America
+921,Artist_921,Electronic,116055,1.1,Asia
+922,Artist_922,Electronic,606435,6.69,South America
+923,Artist_923,Jazz,949135,1.26,Africa
+924,Artist_924,Pop,213877,6.5,Europe
+925,Artist_925,Hip-Hop,619662,8.42,Europe
+926,Artist_926,Pop,62506,3.55,North America
+927,Artist_927,Classical,737603,9.1,Europe
+928,Artist_928,Jazz,505759,1.39,Africa
+929,Artist_929,Hip-Hop,680330,3.05,South America
+930,Artist_930,Electronic,664822,7.65,Europe
+931,Artist_931,Rock,228759,7.75,North America
+932,Artist_932,Electronic,165537,5.47,Asia
+933,Artist_933,Country,325938,2.41,Africa
+934,Artist_934,Jazz,187068,4.89,Africa
+935,Artist_935,Country,921378,1.8,Africa
+936,Artist_936,Jazz,857994,2.98,North America
+937,Artist_937,Country,347784,8.87,South America
+938,Artist_938,Pop,183665,9.16,Australia
+939,Artist_939,Jazz,424714,8.02,North America
+940,Artist_940,Hip-Hop,59749,0.43,Australia
+941,Artist_941,Electronic,165002,8.68,South America
+942,Artist_942,Hip-Hop,885297,2.5,Africa
+943,Artist_943,Jazz,433199,3.05,Europe
+944,Artist_944,Electronic,741494,3.16,North America
+945,Artist_945,Electronic,283132,5.39,Australia
+946,Artist_946,Classical,251038,3.51,North America
+947,Artist_947,Jazz,232097,8.98,Asia
+948,Artist_948,Electronic,437699,6.73,Australia
+949,Artist_949,Electronic,620440,6.66,North America
+950,Artist_950,Classical,694486,7.45,South America
+951,Artist_951,Pop,483017,8.17,Asia
+952,Artist_952,Electronic,442441,4.99,North America
+953,Artist_953,Country,244366,5.55,North America
+954,Artist_954,Jazz,786476,8.02,Asia
+955,Artist_955,Hip-Hop,320406,9.8,Europe
+956,Artist_956,Classical,52186,9.41,Europe
+957,Artist_957,Country,400060,7.73,Europe
+958,Artist_958,Jazz,859031,0.99,North America
+959,Artist_959,Rock,810736,8.71,Europe
+960,Artist_960,Jazz,855293,9.04,Africa
+961,Artist_961,Hip-Hop,664551,7.45,North America
+962,Artist_962,Country,245886,3.63,Australia
+963,Artist_963,Classical,642834,2.73,Australia
+964,Artist_964,Country,956284,1.78,North America
+965,Artist_965,Rock,163459,6.59,Africa
+966,Artist_966,Country,815003,9.48,South America
+967,Artist_967,Hip-Hop,111705,1.83,South America
+968,Artist_968,Country,807677,1.58,Asia
+969,Artist_969,Classical,648622,1.03,Asia
+970,Artist_970,Hip-Hop,952905,9.15,South America
+971,Artist_971,Jazz,676710,0.27,Australia
+972,Artist_972,Jazz,824054,9.41,Asia
+973,Artist_973,Jazz,91200,7.59,Europe
+974,Artist_974,Electronic,849473,1.66,Europe
+975,Artist_975,Classical,910679,0.52,Africa
+976,Artist_976,Classical,276136,1.99,South America
+977,Artist_977,Electronic,789489,3.11,North America
+978,Artist_978,Rock,288252,0.48,Australia
+979,Artist_979,Country,167642,7.9,Africa
+980,Artist_980,Hip-Hop,915273,1.69,South America
+981,Artist_981,Jazz,707437,7.21,Africa
+982,Artist_982,Pop,768190,6.72,Africa
+983,Artist_983,Electronic,106798,4.78,North America
+984,Artist_984,Rock,730448,9.96,Australia
+985,Artist_985,Hip-Hop,253047,2.2,Africa
+986,Artist_986,Country,917037,2.7,South America
+987,Artist_987,Classical,838701,8.02,Europe
+988,Artist_988,Pop,324306,2.37,Asia
+989,Artist_989,Country,558092,6.79,South America
+990,Artist_990,Country,510469,4.11,Australia
+991,Artist_991,Hip-Hop,843662,2.4,Africa
+992,Artist_992,Country,103572,0.99,North America
+993,Artist_993,Classical,716314,1.61,North America
+994,Artist_994,Jazz,192731,0.76,Asia
+995,Artist_995,Rock,974410,6.72,South America
+996,Artist_996,Classical,925533,7.61,North America
+997,Artist_997,Hip-Hop,159676,9.11,Asia
+998,Artist_998,Electronic,293391,8.04,Africa
+999,Artist_999,Jazz,381782,5.22,Australia
+1000,Artist_1000,Hip-Hop,687075,5.37,Europe
